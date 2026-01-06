@@ -6,4 +6,4 @@ Electron client for establishing remote desktop sessions using WebRTC.
 npm install
 npm run dev
 ```
-Wait for the other client to start the call
+Check out [Second-Desk-Local-Client]([url](https://github.com/matthewincardona/Second-Desk-local-client/)) for the connecting to host.
